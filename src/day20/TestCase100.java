@@ -4,6 +4,8 @@ public class TestCase100 {
 
     //Testing for checkout
 
-    //Edit 2 items to the cart
+    //Added 2 items to the cart
+
+    //Vertify the total price of the item
 
 }
